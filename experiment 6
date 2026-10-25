@@ -5,7 +5,7 @@ using namespace std;
 class Resource
 {
 
-27
+
 
 public:
 Resource()
